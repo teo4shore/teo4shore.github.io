@@ -18,9 +18,7 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/matteo-riva-b91308198/
       - icon: orcid
-        href: https://orcid.org/0000-0001-9759-3911
-      - text: Scholar
-        href: https://scholar.google.com/citations?user=EEQo6Y8AAAAJ&hl=en       
+        href: https://orcid.org/0000-0001-9759-3911    
       - icon: envelope
         href: mailto:rivam@ethz.ch
 
