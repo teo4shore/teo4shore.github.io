@@ -4,3 +4,8 @@
 .navbar .bi {
   font-size: 1.4rem;
 }
+
+.navbar img {
+  height: 1.4rem;
+  vertical-align: middle;
+}
