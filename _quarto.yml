@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - images/icons/*.svg
 
 website:
   title: "teo4shore.github.io"
