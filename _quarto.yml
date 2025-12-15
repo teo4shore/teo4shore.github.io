@@ -9,6 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    tools: 
+      - icon: github
+        href: https://github.com/teo4shore
+      - icon: linkedin
+        href: https://www.linkedin.com/in/matteo-riva-b91308198/
+      - icon: envelope
+        href: mailto:rivam@ethz.ch
 
 format:
   html:
