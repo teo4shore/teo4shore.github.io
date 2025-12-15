@@ -1,11 +1,6 @@
 /* css styles */
 
-/* Make navbar icons bigger */
-.navbar .bi {
+/* Make navbar icons larger */
+.navbar .iconify {
   font-size: 1.4rem;
-}
-
-.navbar img {
-  height: 1.5rem;
-  vertical-align: middle;
 }
