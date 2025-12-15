@@ -10,22 +10,19 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-    tools:
-      - icon: github
-        href: https://github.com/teo4shore
-      - icon: linkedin
-        href: https://www.linkedin.com/in/matteo-riva-b91308198/
-      - html: |
-          <a class="navbar-tool" href="https://scholar.google.com/citations?user=EEQo6Y8AAAAJ&hl=en" aria-label="Google Scholar">
-            <img src="/images/icons/google-scholar.svg" alt="Google Scholar">
-          </a>
-      - html: |
-          <a class="navbar-tool" href="https://orcid.org/0000-0001-9759-3911" aria-label="ORCID">
-            <img src="/images/icons/orcid-id.svg" alt="ORCID">
-          </a>
-      - icon: envelope
-        href: mailto:rivam@ethz.ch
+      - href: about.qmd
+        text: About 
+    right:
+      - text: "{{< iconify fa6-brands github >}}"
+        href: "https://github.com/teo4shore"
+      - text: "{{< iconify fa6-brands linkedin >}}"
+        href: "https://www.linkedin.com/in/matteo-riva-b91308198/"
+      - text: "{{< iconify fa6-brands google-scholar >}}"
+        href: 'https://scholar.google.com/citations?user=EEQo6Y8AAAAJ&hl=en'
+      - text: "{{< iconify fa6-brands orcid >}}"
+        href: "https://orcid.org/0000-0001-9759-3911"
+      - text: "{{< iconify fa6-solid envelope >}}"
+        href: "mailto:rivam@ethz.ch"
 
 format:
   html:
