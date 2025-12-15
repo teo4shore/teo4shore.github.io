@@ -11,15 +11,19 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-    tools: 
+    tools:
       - icon: github
         href: https://github.com/teo4shore
       - icon: linkedin
         href: https://www.linkedin.com/in/matteo-riva-b91308198/
-      - href: https://scholar.google.com/citations?user=EEQo6Y8AAAAJ&hl=en
-        text: "![](images/icons/google-scholar.svg)"
-      - href: https://orcid.org/0000-0001-9759-3911
-        text: "![]((images/icons/orcid-id.svg))"
+      - html: |
+          <a class="navbar-tool" href="https://scholar.google.com/citations?user=EEQo6Y8AAAAJ&hl=en" aria-label="Google Scholar">
+            <img src="/images/icons/google-scholar.svg" alt="Google Scholar">
+          </a>
+      - html: |
+          <a class="navbar-tool" href="https://orcid.org/0000-0001-9759-3911" aria-label="ORCID">
+            <img src="/images/icons/orcid-id.svg" alt="ORCID">
+          </a>
       - icon: envelope
         href: mailto:rivam@ethz.ch
 
