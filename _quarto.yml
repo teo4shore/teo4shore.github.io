@@ -5,25 +5,24 @@ project:
     - images/icons/*.svg
 
 website:
+  title: "teo4shore.github.io"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
-
-    tools:
-      - text: "{{< iconify fa6-brands github >}}"
+        text: About 
+    right:
+      - text: "{{< iconify fa6-brands github size=x1 >}}"
         href: "https://github.com/teo4shore"
-      - text: "{{< iconify fa6-brands linkedin >}}"
+      - text: "{{< iconify fa6-brands linkedin size=x1 >}}"
         href: "https://www.linkedin.com/in/matteo-riva-b91308198/"
-      - text: "{{< iconify fa6-brands google-scholar >}}"
-        href: "https://scholar.google.com/citations?user=EEQo6Y8AAAAJ&hl=en"
-      - text: "{{< iconify fa6-brands orcid >}}"
+      - text: "{{< iconify fa6-brands google-scholar size=x1 >}}"
+        href: 'https://scholar.google.com/citations?user=EEQo6Y8AAAAJ&hl=en'
+      - text: "{{< iconify fa6-brands orcid size=x1 >}}"
         href: "https://orcid.org/0000-0001-9759-3911"
-      - text: "{{< iconify fa6-solid envelope >}}"
+      - text: "{{< iconify fa6-solid envelope size=x1 >}}"
         href: "mailto:rivam@ethz.ch"
-
 
 format:
   html:
