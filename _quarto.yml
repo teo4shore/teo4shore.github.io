@@ -10,15 +10,16 @@ website:
         text: Home
       - about.qmd
     right:
-      - href: https://scholar.google.com/citations?user=EEQo6Y8AAAAJ&hl=en
-        text: "![](images/icons/google-scholar.svg){height=1.4rem}"
+
     tools: 
       - icon: github
         href: https://github.com/teo4shore
       - icon: linkedin
         href: https://www.linkedin.com/in/matteo-riva-b91308198/
-      - icon: orcid
-        href: https://orcid.org/0000-0001-9759-3911    
+      - href: https://scholar.google.com/citations?user=EEQo6Y8AAAAJ&hl=en
+        text: "![](images/icons/google-scholar.svg)"
+      - href: https://orcid.org/0000-0001-9759-3911
+        text: "![]((images/icons/orcid-id.svg))"
       - icon: envelope
         href: mailto:rivam@ethz.ch
 
