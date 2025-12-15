@@ -13,15 +13,15 @@ website:
       - href: about.qmd
         text: About 
     right:
-      - text: "{{< iconify fa6-brands github size=x1 >}}"
+      - text: "{{< iconify fa6-brands github size=x2 >}}"
         href: "https://github.com/teo4shore"
-      - text: "{{< iconify fa6-brands linkedin size=x1 >}}"
+      - text: "{{< iconify fa6-brands linkedin size=x2 >}}"
         href: "https://www.linkedin.com/in/matteo-riva-b91308198/"
-      - text: "{{< iconify fa6-brands google-scholar size=x1 >}}"
+      - text: "{{< iconify fa6-brands google-scholar size=x2 >}}"
         href: 'https://scholar.google.com/citations?user=EEQo6Y8AAAAJ&hl=en'
-      - text: "{{< iconify fa6-brands orcid size=x1 >}}"
+      - text: "{{< iconify fa6-brands orcid size=x2 >}}"
         href: "https://orcid.org/0000-0001-9759-3911"
-      - text: "{{< iconify fa6-solid envelope size=x1 >}}"
+      - text: "{{< iconify fa6-solid envelope size=x2 >}}"
         href: "mailto:rivam@ethz.ch"
 
 format:
