@@ -1,7 +1,58 @@
 ---
-title: "teo4shore.github.io"
+title: "Matteo Riva"
 ---
 
-This is a Quarto website.
+# Matteo Riva
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Doctoral student interested in landscape, maps and education. 
+
+---
+
+## About
+
+A slightly longer paragraph (3–4 lines) giving context:
+- what you study or work on
+- your main interests
+- what this site is for
+
+This website collects my projects, notes, and other work.
+
+---
+
+## Interests
+
+- Interest area one
+- Interest area two
+- Interest area three
+- Interest area four
+
+---
+
+## Selected Work
+
+### Project or Paper Title
+One-sentence description of what this is and why it matters.  
+[Link to project →]
+
+### Another Project
+Short description.  
+[Link →]
+
+---
+
+## Current Focus
+
+A brief list of what you’re currently working on or learning.
+
+- Topic / skill / project
+- Topic / skill / project
+
+---
+
+## Contact
+
+- Email: rivam@ethz.ch   
+- GitHub: [github.com/teo4shore](https://github.com/teo4shore) 
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/matteo-riva-b91308198/) 
+- Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=EEQo6Y8AAAAJ&hl=en) 
+ 
